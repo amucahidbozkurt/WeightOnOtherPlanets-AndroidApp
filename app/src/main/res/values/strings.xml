@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeightOnOtherPlanets</string>
+    <string name="app_title">What\'s Your Weight on Other Planets?</string>
+    <string name="enter_weight">Enter weight on Earth</string>
+</resources>
